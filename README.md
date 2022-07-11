@@ -1,7 +1,8 @@
 # SimpleX SMP Server
 
 Simple container for the SimpleX chat server
-(Dockerhub Link)[https://hub.docker.com/r/kizaing/simplex-chat]
+
+[Dockerhub Link](https://hub.docker.com/r/kizaing/simplex-chat)
 
 ## Running
 If using a FQDN
